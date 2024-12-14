@@ -1,7 +1,8 @@
-# Demo Heading
+# Demo #3 Heading
 
-This is a demonstration description edited!
+This is a demonstration description #2!
 
-## Demo Subheading
+## Demo #3 Subheading
 
-This is a description pushed using Git!
+This is a description pushed using Git #2!
+This is another piece of text #2!
