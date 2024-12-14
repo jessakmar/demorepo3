@@ -1,8 +1,8 @@
 # Demo #3 Heading
 
-This is a demonstration description #2!
+This is a demonstration description #3!
 
 ## Demo #3 Subheading
 
-This is a description pushed using Git #2!
-This is another piece of text #2!
+This is a description pushed using Git #3!
+This is another piece of text #3!
